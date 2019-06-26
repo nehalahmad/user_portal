@@ -1,0 +1,17 @@
+.title-container {
+  margin-bottom: 20px;
+}
+
+.title-container h1 {
+  display: inline;
+}
+
+.title-container a:hover {
+  text-decoration: none;
+}
+
+.title-container .add-customer {
+  font-size: 3em;
+  padding: 10px;
+  margin-left: 20px;
+}
